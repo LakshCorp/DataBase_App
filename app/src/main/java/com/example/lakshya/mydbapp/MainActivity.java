@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     EditText edName, edCourse, edBranch,edRoll_NO;
 
     Button add, View,Update,Delete;
-
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
